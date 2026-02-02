@@ -9,9 +9,8 @@
 #include <limits.h>
 
 /* ============================================================================
- * C² (C-Squared) Language Interpreter v3.0
- * A memory-safe C/Python hybrid with compile-time and concurrency features
- * 
+ * C² (C-Squared) Language
+ * Pretty sick shit here!!
  * 
  * Created by: grendizerh
  * License: MIT
