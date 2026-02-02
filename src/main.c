@@ -12,12 +12,8 @@
  * C² (C-Squared) Language Interpreter v3.0
  * A memory-safe C/Python hybrid with compile-time and concurrency features
  * 
- * NEW IN V3.0:
- * - comptime: Compile-time evaluation
- * - spawn: Safe concurrency with automatic race detection
- * - Enhanced comments: #, //, and multiline comments
  * 
- * Created by: Claude (Anthropic)
+ * Created by: grendizerh
  * License: MIT
  * ============================================================================ */
 
