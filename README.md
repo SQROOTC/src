@@ -1,4 +1,5 @@
 # src
+## IN DEVELOPMENT
 The SRC programming language, a superset of C
 
 ```c
@@ -8,5 +9,4 @@ void main() {
 ```
 
 
-this is in development, so do not expect everything to be bug-free.
 ### HELP WANTED ###
